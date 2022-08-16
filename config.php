@@ -1,5 +1,5 @@
 <?php
-    define('HOST', 'localhost');
+    define('HOST', 'ClickEvloue');
     define('USER', 'root');
     define('PASS', '');
     define('BASE', 'cadastro');
