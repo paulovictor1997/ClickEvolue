@@ -1,5 +1,5 @@
 <?php
-    define('HOST', 'localhost');
+    define('HOST', 'appcadastro97');
     define('USER', 'root');
     define('PASS', '');
     define('BASE', 'cadastro');
